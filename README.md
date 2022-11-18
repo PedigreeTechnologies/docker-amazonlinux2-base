@@ -28,7 +28,6 @@ This image is built on Docker Hub automatically any time the upstream OS contain
 Originally created in 2018 by [Jeff Geerling](https://www.jeffgeerling.com/), author of [Ansible for DevOps](https://www.ansiblefordevops.com/).
 Adapted for internal use at Pedigree Techologies in 2022
 
-
 [Actions]: https://github.com/PedigreeTechnologies/docker-amazonlinux2-base/workflows/Build/badge.svg?branch=master&event=push
 [ActionsBuild]: https://github.com/PedigreeTechnologies/docker-amazonlinux2-base/actions?query=workflow%3ABuild
 [DockerImg]: https://img.shields.io/docker/pulls/pedigreetechnologies/docker-amazonlinux2-base
